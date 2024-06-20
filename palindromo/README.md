@@ -1,5 +1,5 @@
 # Palíndromo
 
-* Programa desenvolvido em C# que verifica se algum dado número de traz para frente é igual à ele mesmo em sua ordem natural (Palíndromo).
+* Program developed in C# that checks whether any given  number is equal to itself in its natural order (Palindrome).
 
 * The example contains 2 C# compilation targets and a makefile to piece it all together.
