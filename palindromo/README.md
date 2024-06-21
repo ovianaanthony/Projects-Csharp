@@ -14,10 +14,10 @@
 
 > For debugging the code you can verify compilation errors with 'dotnet build'
 
-> For run the application you can use 'dotnet run'
+> For running the application you can use 'dotnet run'
 
 > If you need help with commands 'dotnet help'
 
 > For cleaning build outputs 'dotnet clean'
 
-* There are other dotnet commands too which you must looking for.
+* There are also other dotnet commands which you must looking for.
