@@ -1,5 +1,5 @@
 # Projects-Csharp
-This is a repo for sharing C# programming ideas and it's development around this community.
+This is a repo for sharing C# programming ideas and its development around this community.
 
 
 ## Encouraged skills:
@@ -7,6 +7,8 @@ This is a repo for sharing C# programming ideas and it's development around this
 * C#
 * OOP (Objected Oriented Programming)
 * .NET development
+
+
 
 
 ### A simple colab example to show the code
