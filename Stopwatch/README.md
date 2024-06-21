@@ -14,9 +14,7 @@
 
 > For debugging the code you can verify compilation errors with 'dotnet build'
 
-> For running the application you can use 'dotnet run'
-
-  > * If you need help with commands 'dotnet help'
+> For running the application you can use 'dotnet run' > * If you need help with commands 'dotnet help'
 
 > For cleaning build outputs 'dotnet clean'
 
