@@ -12,4 +12,4 @@ This is a repo for sharing C# programming ideas and its development around this 
 
 
 ### A simple colab example to show the code
-Following [notebook](https://colab.research.google.com/drive/1JUg2-7FxXf1EgwSTVb2MbX6t60CkQdbG?usp=sharing)
+Following [notebook]([https://colab.research.google.com/drive/1JUg2-7FxXf1EgwSTVb2MbX6t60CkQdbG?usp=sharing](https://github.com/ovianaanthony/Projects-Csharp/blob/main/Projects_Csharp.ipynb))
