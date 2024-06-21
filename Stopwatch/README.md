@@ -16,7 +16,7 @@
 
 > For running the application you can use 'dotnet run'
 
-> If you need help with commands 'dotnet help'
+  > * If you need help with commands 'dotnet help'
 
 > For cleaning build outputs 'dotnet clean'
 
