@@ -13,5 +13,6 @@ This is a repo for sharing C# programming ideas and its development around this 
 
 
 
-### A simple colab example to show the code
+### A simple colab example to show the code:
 Following [notebook](https://github.com/ovianaanthony/Projects-Csharp/blob/main/Projects_Csharp.ipynb)
+> You also can open in colab to visualize.
