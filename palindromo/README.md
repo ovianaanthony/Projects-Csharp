@@ -8,6 +8,7 @@
 > [!TIP]
 > Make sure you have uploaded the .NET environment
  > Checking the version with the command 'dotnet --version'
+
 > To inicializes the C# project (console) use 'dotnet new console -o <NAME_OF_APPLICATION>'
 > For debugging the code you can verify compilation errors with 'dotnet build'
 > For run the application you can use 'dotnet run'
