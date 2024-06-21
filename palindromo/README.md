@@ -2,6 +2,7 @@
 
 > [!NOTE]
 > Program developed in C# that checks if any given number is the same in its opposite and natural order.
+
 > The example contains 2 C# compilation targets and a makefile to piece it all together.
 
 ## Building and Running Code 
@@ -11,6 +12,7 @@
 
 > To inicializes the C# project (console) use 'dotnet new console -o <NAME_OF_APPLICATION>'
 > For debugging the code you can verify compilation errors with 'dotnet build'
+
 > For run the application you can use 'dotnet run'
   > Need help with commands 'dotnet help'
 > For cleaning build outputs 'dotnet clean'
