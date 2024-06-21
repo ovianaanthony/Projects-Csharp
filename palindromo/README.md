@@ -7,14 +7,17 @@
 
 ## Building and Running Code 
 > [!TIP]
-> Make sure you have uploaded the .NET environment
+> Make sure you have uploaded the .NET environment:
  > Checking the version with the command 'dotnet --version'
 
 > To inicializes the C# project (console) use 'dotnet new console -o <NAME_OF_APPLICATION>'
+
 > For debugging the code you can verify compilation errors with 'dotnet build'
 
 > For run the application you can use 'dotnet run'
-  > Need help with commands 'dotnet help'
+
+> If you need help with commands 'dotnet help'
+
 > For cleaning build outputs 'dotnet clean'
 
 * There are other dotnet commands too which you must looking for.
