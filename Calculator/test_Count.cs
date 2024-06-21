@@ -2,7 +2,7 @@ using System;
 
 namespace Calculator
 {
-    class Program
+    class test_Count
     {
         static void Main(string[] args)
         {
