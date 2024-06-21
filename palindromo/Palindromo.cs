@@ -5,7 +5,7 @@ namespace palindromo{
     public static class Palindromo{
         public static bool Show(int x){
             if(x<0){
-                Console.WriteLine($"Não é palíndromo: {x}");
+                Console.WriteLine($"It's not a palindrome: {x}");
                 return false;
             }
             string a = x.ToString();
@@ -15,11 +15,11 @@ namespace palindromo{
                 c += a.Substring(i-1, 1);
             }
             if (a.Equals(c)){
-                Console.WriteLine($"Palíndromo Perfeito: {x}");
+                Console.WriteLine($"Perfect palindrome: {x}");
                 return true;
             }
             else{
-                Console.WriteLine($"Não é palíndromo: {x}");
+                Console.WriteLine($"It's not a palindrome: {x}");
                 return false;
             }
         }
